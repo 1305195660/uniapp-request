@@ -1,0 +1,12 @@
+{
+  "name": "@chenkaixuan000912/uni-app-request",
+  "version": "1.0.0",
+  "description": "对uni-app的uni-request与uni-addInterceptor API进行二次封装",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["uni-app","request","uni-request","uni-addInterceptor","addInterceptor","uni-request"],
+  "author": "ckx",
+  "license": "ISC"
+}
